@@ -1,0 +1,7 @@
+Flask==1.0.2
+requests==2.19.1
+mysql-connector==2.1.6
+internal-company-utils==1.0.0
+pyyaml==3.13
+internal-company-crypto==1.0.0
+internal-company-xml==1.0.0 

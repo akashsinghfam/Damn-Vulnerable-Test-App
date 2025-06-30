@@ -1,0 +1,16 @@
+{
+  "name": "vulnerable-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "axios": "0.19.0",
+    "internal-company-ui": "1.0.0",
+    "jquery": "1.9.1",
+    "internal-company-crypto": "1.0.0",
+    "internal-company-xml": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+} 
